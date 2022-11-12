@@ -13,7 +13,10 @@ Information about the process of opening a small business page can be found here
 
 ## Social Media Platform/Campaign 
 
+A social media campaign is another good way to expand our reach and brand awareness. Customers that already know of us can follow the store on social media, that way they can be made aware of new products and ongoing promotions. The reason for this is twofold, as they are made aware of new products and promotions, they can also share that information with their friend base. As they share that information with their friend base, more people become aware of us, and the reach of our brand improves. The second reason is that reliable posts from the business reinforces the customer's awareness of our brand, and increases positive feelings associated with it (if done correctly). Given the turmoil associated with the platform right now, this is perhaps not an optimal time to start a twitter campaign. However, facebook would probably be a good platform to work with. The demographic of facebook overlaps pretty well with our expected customer base. At the base of the social media campaign, we should start a page. This is considered a better option for business than having a normal facebook profile. For one thing "Pages are listed more prominently on people’s profiles. That is, your page’s logo will appear in your fans’ profiles, not just the name, as with a group. That’s cool, because one of the biggest ways that you attract fans is when people browse their friends’ profiles. If they see that their friend is a fan of your page, they may also sign up" (Holzner ch3) which is better for visibility. After that there should be a plan 
 
+
+Holzner, Steven. Facebook Marketing. [Electronic Resource] : Leverage Social Media to Grow Your Business. Que, 2009. EBSCOhost, https://search.ebscohost.com/login.aspx?direct=true&db=cat08357a&AN=cer.ebs651500e&site=eds-live.
 
 ## Meta-Data Optimization
 
