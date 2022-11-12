@@ -7,6 +7,9 @@ I am proposing a four part campaign for promoting our website. The first part is
 
 ## Google Small Business Page
 
+Opening a Google small business page represents the easiest way to promote the website. The only way a user would find our website is either by passing by our storefront, or from word of mouth. By opening up a google small business page and tying it to google maps, we take advantage of being visible as a local business. Without a small business page the only way a person would find the website is if they knew the name of the location in advance, which is a bad way to gain new customers. With a small business page, our store would pop up more readily when a person searches for "local restaurants" or "farm stand" or "local small business" making it more likely to gain new site viewers. The process is relatively simple, one just has to set up a google account with a business email domain and open a business profile. From there, we can fill out the locations we serve, and contact info, and most importantly the website. The process is free, and relatively straight forward. It would probably behoov us to add some pictures to increase brand visibility and awareness.
+
+Information about the process of opening a small business page can be found here: https://support.google.com/business/answer/10514137?hl=en#zippy=%2Ccreate-a-business-profile-on-google%2Cbest-practices-to-set-up-your-service-business%2Cmanage-account-access
 
 ## Social Media Platform/Campaign 
 
